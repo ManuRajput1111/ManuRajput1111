@@ -1,3 +1,4 @@
+![logo](https://github.com/ManuRajput1111/ManuRajput1111/blob/main/manu%20rajput%20(1).png)
 <h1 align="center">Hi 👋, I'm Manu Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding"width="400"src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
